@@ -1,0 +1,18 @@
+body{
+
+    margin: 0%;
+    box-sizing: border-box;
+
+}
+.image{
+
+    width: 89%!important;
+    height: 87%!important;
+    /* border-radius: 50rem; */
+    padding-right: 0%;
+}
+.sides{
+
+    height: 3rem;
+}
+@media only screen (min-width)
